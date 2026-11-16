@@ -5,6 +5,7 @@
   <i>Stop Googling. Start exploiting.</i>
 </p>
 
+<img width="854" height="480" alt="axaxxaxa" src="https://github.com/user-attachments/assets/0dbbfbf9-70e8-4ff6-82d8-a49e96bf3d69" />
 
 
 **InterSploit** is a powerful CLI tool designed for penetration testers, bug bounty hunters, and security researchers. Instead of manually searching for CVE IDs and then hunting down Proof-of-Concept (PoC) scripts, InterSploit does it all in one go.
