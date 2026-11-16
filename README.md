@@ -31,8 +31,8 @@ Just give it a software name (e.g., `ProFTPD 1.3.5`, `PwnKit`, or `Log4j`), and 
 ### Quick Install (Linux / macOS / Termux)
 ```bash
 # Clone the repository
-git clone https://github.com/ex6p/InterSploit.git
-cd InterSploit
+git clone https://github.com/ex6p/InterKrot.git
+cd InterKrot
 
 # Make the installer executable and run it
 chmod +x install.sh
